@@ -61,3 +61,7 @@ the main function that orchestrates the entire process.
 > ![Capture 3](https://github.com/user-attachments/assets/62412062-9874-46e5-9d80-0c9c9f3fd231)
 
 > ![Capture 4](https://github.com/user-attachments/assets/abe63b0d-46e1-455f-a811-625ae2fbf0c1)
+
+## License
+
+[MIT License](LICENSE)
